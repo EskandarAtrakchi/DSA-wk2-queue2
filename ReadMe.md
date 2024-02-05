@@ -43,6 +43,10 @@ The `BookingSystem` class represents a booking system that manages a list of `Ti
 - Calls the `toString` method of each `TicketHolder` object in the list and concatenates the result to a string.
 - Prints the concatenated string for each element.
 
+## Class Diagram 
+
+![OpenAI Logo](https://github.com/EskandarAtrakchi/DSA-wk2-queue2/blob/master/class%20diagram.png?raw=true)
+
 ## Summary
 
 The `BookingSystem` class provides functionality to manage and display information about ticket holders. It utilizes a list of `TicketHolder` objects to store ticket details and implements common queue operations.
