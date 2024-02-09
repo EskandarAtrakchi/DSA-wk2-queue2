@@ -45,7 +45,7 @@ The `BookingSystem` class represents a booking system that manages a list of `Ti
 
 ## Class Diagram 
 
-![Class Diagram ScreenShot](https://github.com/EskandarAtrakchi/DSA-wk2-queue2/blob/master/class%20diagram.png?raw=true)
+![Class Diagram ScreenShot](https://github.com/EskandarAtrakchi/DSA-wk2-queue2/blob/master/class%20diagram%20lucidchart.png?raw=true)
 
 ## Summary
 
